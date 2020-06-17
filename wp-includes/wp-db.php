@@ -554,7 +554,7 @@ class wpdb {
 	 * @since 3.3.0
 	 * @var bool
 	 */
-	public $is_mysql = null;
+	public $is_mysql = false;
 
 	/**
 	 * A list of incompatible SQL modes.
